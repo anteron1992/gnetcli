@@ -1,0 +1,14 @@
+pkg/device/bcomos/bcomos.go
+  h_6c3769e1144e56 35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "2ea3cd8c9700fe39ce8a5713d8af4c14554c9fae",
+  "prompts": {},
+  "humans": {
+    "h_6c3769e1144e56": {
+      "author": "Роман Карауланов <anteron@mts.ru>"
+    }
+  }
+}
