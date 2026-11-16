@@ -1,0 +1,36 @@
+pkg/server/setenv_test.go
+  s_b266e1e7b27ff6::t_2260df5930a75a 48-49,57-59,63
+  s_b266e1e7b27ff6::t_ddcb9253a977f8 50-56,60-62
+pkg/server/setenv.go
+  s_b266e1e7b27ff6::t_79e3af869164f5 14,17-20,68-69
+pkg/server/server_integration_test.go
+  s_b266e1e7b27ff6::t_2260df5930a75a 629-642,645
+  s_b266e1e7b27ff6::t_8a74603412e747 643-644
+pkg/server/setenv_config_test.go
+  s_b266e1e7b27ff6::t_8a74603412e747 1-60
+pkg/server/server.go
+  s_b266e1e7b27ff6::t_e893e2526eb787 526,588-593
+pkg/server/setenv_config.go
+  s_b266e1e7b27ff6::t_79e3af869164f5 1-134
+pkg/server/devuath.go
+  s_b266e1e7b27ff6::t_e893e2526eb787 57-69
+  s_b266e1e7b27ff6::t_79e3af869164f5 151
+pkg/server/sshconfig.go
+  s_b266e1e7b27ff6::t_79e3af869164f5 9,13-16,27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1d0cab14ab38959ff8a3d1ae2dbc8b6458d663f2",
+  "prompts": {},
+  "sessions": {
+    "s_b266e1e7b27ff6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e428-0381-7880-aff3-251247edd3ec",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Роман Карауланов <anteron@mts.ru>"
+    }
+  }
+}
