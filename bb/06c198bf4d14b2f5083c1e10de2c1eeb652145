@@ -1,0 +1,58 @@
+pkg/streamer/ssh/ssh.go
+  s_b266e1e7b27ff6::t_0d0004dac09d8b 826-828
+pkg/server/setenv_test.go
+  s_b266e1e7b27ff6::t_635cb1193b4974 1-10,12-20,22-28,30
+  s_b266e1e7b27ff6::t_f78488a3f3b28b 31-32
+  s_b266e1e7b27ff6::t_9b6c906a78cf7d 11,21,29
+  s_b266e1e7b27ff6::t_0d0004dac09d8b 33-47
+pkg/server/devuath.go
+  s_d507a44724afcf::t_a714e9a508f758 92
+  s_d507a44724afcf::t_5f8756179ed6a1 93-94
+  s_b43c03b250602a::t_816a435da9c9bf 74-80,87
+pkg/server/setenv.go
+  s_b266e1e7b27ff6::t_c75557c6897346 1-8,11-14,17-18,20-31,36-39,41-43,49-50,52-55,57-98
+  s_b266e1e7b27ff6::t_70b40f676b8b77 9-10
+  s_b266e1e7b27ff6::t_cc64e1ba343c5d 15-16
+  s_b266e1e7b27ff6::t_73bda0adcad399 19
+  s_b266e1e7b27ff6::t_6fed8b4d58f78c 32-35
+  s_b266e1e7b27ff6::t_a19f62402007a5 40
+  s_b266e1e7b27ff6::t_8628254c1a2a92 44-48
+  s_b266e1e7b27ff6::t_dab8955751783b 51
+  s_b266e1e7b27ff6::t_e628a692e4c359 56
+pkg/server/setenv_integration_test.go
+  s_b266e1e7b27ff6::t_1af76a7f044dfb 1-118
+pkg/server/server.go
+  s_b43c03b250602a::t_1b0985f61d84a6 73,219-221,588
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bb06c198bf4d14b2f5083c1e10de2c1eeb652145",
+  "prompts": {},
+  "sessions": {
+    "s_b266e1e7b27ff6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e428-0381-7880-aff3-251247edd3ec",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Роман Карауланов <anteron@mts.ru>"
+    },
+    "s_b43c03b250602a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e439-49ea-7dd0-9efb-fdf6ae0a795f",
+        "model": "unknown"
+      },
+      "human_author": "Роман Карауланов <anteron@mts.ru>"
+    },
+    "s_d507a44724afcf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e404-cd54-70f0-9453-9073971f5cd7",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Роман Карауланов <anteron@mts.ru>"
+    }
+  }
+}
