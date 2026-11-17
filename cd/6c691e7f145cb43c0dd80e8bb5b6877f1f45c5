@@ -1,0 +1,21 @@
+pkg/server/setenv_test.go
+  s_b266e1e7b27ff6::t_06ac175ea389b3 49,51-52
+pkg/server/setenv.go
+  s_b266e1e7b27ff6::t_a971c9f77afc54 68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cd6c691e7f145cb43c0dd80e8bb5b6877f1f45c5",
+  "prompts": {},
+  "sessions": {
+    "s_b266e1e7b27ff6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e428-0381-7880-aff3-251247edd3ec",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Роман Карауланов <anteron@mts.ru>"
+    }
+  }
+}
